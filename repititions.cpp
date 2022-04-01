@@ -1,5 +1,5 @@
 // Author::TheWebKnight
-// Weird Algorithm
+// Repititions
 // 01 April, 2022
 
 #include<iostream>
